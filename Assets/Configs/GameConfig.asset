@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cda7c4645f4dfaf4b962f524342b5728, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  GameConfig:
+    figuresCollection:
+      Icon: {fileID: 21300000, guid: 7e0f18bb1877b3a4aafc7206f55c687a, type: 3}
+      Prefab: {fileID: 6883895237233911837, guid: 1a358e6cd43ea2346877c350f36d59fb, type: 3}
+      Colors:
+      - {r: 0.54509807, g: 0, b: 0, a: 1}
+      - {r: 1, g: 0, b: 0, a: 1}
+      - {r: 0.93333334, g: 0.50980395, b: 0.93333334, a: 1}
+      - {r: 1, g: 0.7529412, b: 0.79607844, a: 1}
+      - {r: 1, g: 0.54901963, b: 0, a: 1}
+      - {r: 1, g: 0.64705884, b: 0, a: 1}
+      - {r: 1, g: 0.84313726, b: 0, a: 1}
+      - {r: 1, g: 0.84313726, b: 0, a: 1}
+      - {r: 1, g: 1, b: 0, a: 1}
+      - {r: 0.29411766, g: 0, b: 0.50980395, a: 1}
+      - {r: 0, g: 0, b: 0.54509807, a: 1}
+      - {r: 0, g: 0, b: 1, a: 1}
+      - {r: 0.11764706, g: 0.5647059, b: 1, a: 1}
+      - {r: 0, g: 1, b: 1, a: 1}
+      - {r: 0, g: 0.80784315, b: 0.81960785, a: 1}
+      - {r: 0.5294118, g: 0.80784315, b: 0.92156863, a: 1}
+      - {r: 0, g: 0.39215687, b: 0, a: 1}
+      - {r: 0.19607843, g: 0.8039216, b: 0.19607843, a: 1}
+      - {r: 0.59607846, g: 0.9843137, b: 0.59607846, a: 1}
+      - {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 1}
+    _figureReturnAnimationTime: 0.3
+    _figureReturnEase: 1
+    _figurePlaceAnimationTime: 0.4
+    _figurePlaceEase: 21
+    _trashcanAnimationDuration: 0.5
+    _trashcanObjectRotation: {x: 0, y: 0, z: 170}
