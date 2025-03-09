@@ -154,7 +154,6 @@ MonoBehaviour:
   autoRun: 1
   autoInjectGameObjects: []
   _setupConfig: {fileID: 11400000, guid: ca2a50771c07b6c4b95e6f6e88b83cd6, type: 2}
-  _globalMonoBehaviour: {fileID: 7496468393744902503}
 --- !u!1 &7496468393744902501
 GameObject:
   m_ObjectHideFlags: 0
@@ -166,7 +165,6 @@ GameObject:
   - component: {fileID: 3921644632091607550}
   - component: {fileID: 4288920515946863921}
   - component: {fileID: 7496468393744902502}
-  - component: {fileID: 7496468393744902503}
   m_Layer: 0
   m_Name: Game Scope
   m_TagString: Untagged
@@ -184,18 +182,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c5a7471180d94e4b969801e4f0bad74, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &7496468393744902503
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7496468393744902501}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 471f112914be88244bebfd94ca1651de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
